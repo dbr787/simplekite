@@ -20,7 +20,7 @@
     "ParameterValue": "1"
   },
   {
-    "ParameterKey": "InstanceType",
+    "ParameterKey": "InstanceTypes",
     "ParameterValue": "t3.small"
   },
   {
